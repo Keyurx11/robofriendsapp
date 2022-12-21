@@ -18,12 +18,12 @@ The app displays a list of robot friends, each with a name and a profile picture
 
 If you want to make changes to the app or add new features, you can do so by editing the files in the src directory. Make sure to test your changes to ensure that they do not break the app.
 
-Technologies Used
+Technologies Used  
 React  
 Redux  
 React-Redux  
 Tachyons
 
-APIs Used
+APIs Used  
 RoboHash - used to generate the robot profile pictures  
 JSONPlaceholder - used to generate the robot names and info
